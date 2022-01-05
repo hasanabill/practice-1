@@ -24,6 +24,9 @@ body{
 .splash{
     width: 80%;
 }
+.batman{
+    width: 80%;
+}
 .orange{
     color: rgb(31, 152, 207);
 }
@@ -36,4 +39,7 @@ h1{
     background-image: linear-gradient(rgb(98, 180, 235), rgb(111, 223, 223));
     color: rgb(97, 51, 29);
     font-weight: bold;
+}
+#padd{
+    padding-right: 80px;
 }
