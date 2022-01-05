@@ -8,6 +8,7 @@ body{
     background-image: url(images/bg-1.png);
     background-size: 10%;
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 .intro{
     padding-top: 80px;
@@ -19,6 +20,9 @@ body{
 .profile-1{
     width: 80%;
     padding-left: 50px;
+}
+.splash{
+    width: 80%;
 }
 .orange{
     color: rgb(31, 152, 207);
